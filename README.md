@@ -1,2 +1,2 @@
-# Java-Algorithm
+# 😈 Java-Algorithm
 solve BOJ
